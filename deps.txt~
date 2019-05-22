@@ -1,0 +1,3 @@
+sudo apt-get install python-tk python-pip
+sudo apt-get install python-pip
+sudo pip install Pmw ply matplotlib

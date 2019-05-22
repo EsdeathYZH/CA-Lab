@@ -1,0 +1,4 @@
+sudo apt-get install python-tk python-pip
+sudo apt-get install python-pip
+#Edit /aerialvision/guiclasses.py
+"from matplotlib import mpl" =>> "import matplotlib as mpl"
