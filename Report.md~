@@ -19,9 +19,6 @@ L1D_total_cache_miss_rate = 0.3927
 L1D_total_cache_miss_rate = 0.3924
 L1D_total_cache_miss_rate = 0.3922
 L1D_total_cache_miss_rate = 0.3919
-
-average:0.3919
-
 ### 4. What's your average memory fetch latency? (15%)
 averagemflatency = 259 
 averagemflatency = 220 
@@ -39,9 +36,6 @@ averagemflatency = 227
 averagemflatency = 227 
 averagemflatency = 227 
 averagemflatency = 227
-
-average:227
-
 ### 5. Name several characteristic of BFS based on your results, such as cache, memory and instructions. (15%)
 First I check I-cache miss rate:
 L1I_total_cache_miss_rate = 0.1653
